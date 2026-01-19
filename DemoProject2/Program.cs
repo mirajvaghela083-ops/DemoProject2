@@ -16,6 +16,8 @@ class Program
         //While9.perfect();
         //hile10.prime();
         //While11.primeCheck();
-        While12.Fibonacci();
+        //While12.Fibonacci();
+        While13.sumOfFibonacci();
+
     }
 }

@@ -14,6 +14,7 @@ class Program
         //While7.number();
         //While8.armStrong();
         //While9.perfect();
-        While10.prime();
+        //hile10.prime();
+        While11.primeCheck();
     }
 }

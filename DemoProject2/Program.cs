@@ -15,6 +15,7 @@ class Program
         //While8.armStrong();
         //While9.perfect();
         //hile10.prime();
-        While11.primeCheck();
+        //While11.primeCheck();
+        While12.Fibonacci();
     }
 }

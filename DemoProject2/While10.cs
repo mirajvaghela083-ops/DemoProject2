@@ -8,10 +8,27 @@ namespace DemoProject2
     {
         internal static void prime()
         {
-            int i = 1;
-            int j = 100;
-            int sum = 0;
-            while (i < j) {
+            int num = 2;
+
+            while (num <= 100)
+            {
+                int i = 2;
+                bool isPrime = true;
+                while (i <= num / 2)
+                {
+                    if (num % i  == 0)
+                    {
+                        isPrime = false;
+                        break;
+                    }
+                    i++;
+                }
+                if (isPrime)
+                {
+                    Console.WriteLine(num);
+                }
+                num++;
+            }
 
         }
     }

@@ -19,7 +19,9 @@ class Program
         //While12.Fibonacci();
         //While13.sumOfFibonacci();
         //While14.square();
-        While15.square();
+        //While15.square();
+        //While16.div();
+        While17.factor();
 
     }
 }

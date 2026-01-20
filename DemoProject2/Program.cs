@@ -23,7 +23,9 @@ class Program
         //While16.div();
         //While17.factor();
         //While18.Hcf();
-        While19.LCM();
+        //While19.LCM();
+        //While20.smallest();
+        While21.largest();
 
     }
 }

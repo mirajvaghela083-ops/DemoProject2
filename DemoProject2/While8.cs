@@ -16,9 +16,9 @@ namespace DemoProject2
 
             double sum = 0;
 
-            while (number > 0)
+            while (temp > 0)
             {
-                number = number / 10;
+                temp = temp / 10;
                 count++;
             }
             temp = number;

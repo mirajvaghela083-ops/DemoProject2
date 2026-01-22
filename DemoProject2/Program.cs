@@ -11,7 +11,7 @@ class Program
         //While4.funof();
         //While5.totalOf();
         //While6.demo();
-        //While7.number();
+        While7.number();
         //While8.armStrong();
         //While9.perfect();
         //hile10.prime();
@@ -25,7 +25,7 @@ class Program
         //While18.Hcf();
         //While19.LCM();
         //While20.smallest();
-        While21.largest();
+        //While21.largest();
 
     }
 }

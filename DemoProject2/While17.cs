@@ -15,7 +15,7 @@ namespace DemoProject2
             }
 
             int x = 1;
-            int sum = 0;
+           // int sum = 0;
 
             while (x <= num)
             {
